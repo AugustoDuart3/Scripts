@@ -1,3 +1,4 @@
+#python 3.7
 #A solution to a problem that goes
 #input=[1 2 3]
 #output=[5 10 55]. What would be the output of input=10?
