@@ -1,4 +1,7 @@
 #python 3.7
+#da los movimientos que ganan un nivel del juego Ball Sort Puzzle (https://play.google.com/store/apps/details?id=com.spicags.ballsort&hl=es_AR&gl=US)
+
+
 import time as t
 import sys, math
 #VARIABLES MANUALES
