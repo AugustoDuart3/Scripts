@@ -1,5 +1,5 @@
 #python 3.7
-#A solution to a problem that goes
+#A solution to a problem that says
 #input=[1 2 3]
 #output=[5 10 55]. What would be the output of input=10?
 #my solution(not the only one) assumes the pattern to be a sequence
