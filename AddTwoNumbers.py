@@ -31,13 +31,11 @@ if NotInDigitRange or LengthOutOfRange or LeadingZero:
 
 def reverseList(l):
     output=[]
-    for element in l:
-        output.insert(0,element)
+    for element in l: output.insert(0,element)
     return output
 def getIntFromList(l):
     numberString=''
-    for element in l:
-        numberString+=str(element)
+    for element in l: numberString+=str(element)
     return int(numberString)
 
 
