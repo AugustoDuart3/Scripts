@@ -1,3 +1,4 @@
+#python 3.7
 #same problem as last script, only this version is "translated" to use classes
 
 import sys
