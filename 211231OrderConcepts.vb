@@ -1,6 +1,6 @@
 'Some VBA code made to order a long accounting sheet
 
-Private Sub acomodar_conceptos()
+Sub acomodar_conceptos()
 'comienza en a3 la lista, termina en a8088(8087 ultima llena). eso lo mido con columna b vacia(condicion del loop)
 Range("a3").Select
 
