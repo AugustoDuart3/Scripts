@@ -1,4 +1,5 @@
 'Some VBA code made to order a long accounting sheet
+'.vb used for formatting purposes
 
 Sub order_concepts()
 'starts at a3
